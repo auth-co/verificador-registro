@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-02T20:06:59.102Z",
+  "updated": "2026-03-02T20:23:48.987Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -22,17 +22,17 @@
       "tier": "extractor"
     },
     {
-      "hash": "12f5d47d47449bc4e9ffb9d9448279b8d4f0cb270b4b856fb1d95639549710f5",
-      "nombre": "Mateo - 1",
-      "expira": "2026-12-31",
-      "tier": "comparador"
-    },
-    {
       "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
       "nombre": "DESWD",
       "expira": "2026-12-31",
       "tier": "extractor"
+    },
+    {
+      "hash": "575e2724394a864344a596c23bd820a9e8f84c8853678dd6129c96ee483c2199",
+      "nombre": "mAT",
+      "expira": "2026-12-31",
+      "tier": "comparador"
     }
   ],
-  "signature": "c5cd99f35fb956fc9b92d758f86245f7eb651171df4f431480de896dbb88cf7e"
+  "signature": "5c9444c8a67c28f3afbb57e7b962127b5acfdfa41881c4bbb9033938d7eeb364"
 }
