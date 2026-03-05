@@ -1,3 +1,4 @@
 ﻿"Fecha registro","Asignado a","Tier","Expira","Device ID / Serial Hardware","UUIDs (con guiones)","UUID sin guiones (hash base)","Hash (completo)"
 "2026-03-02 21:19:43","Daniel16","extractor","2026-12-31","11BCA894816C09F64C5A374700405FE6","829C-DA7C","829CDA7C","53abea0cf6965dec35b7227a57f0b81f8a5ea290ed0607616f0e27ec1f61d9fe"
 "2026-03-05 17:07:41","Daniel64","extractor","2026-12-31","24F9AA0C631065C2185B544A01B8DF4C","7BDB-74AD","7BDB74AD","328003e192b66698d7e2051889586ca8cc19b7a6bafdde8af057e86291ce176d"
+"2026-03-05 18:06:54","daniel64","comparador","2026-12-31","849C8803C29E5B1F8D2B7F55BA4F3E84","7BDB-74AD","7BDB74AD","137f2ade7fadfffee80e779f3054242b89c36f983d0a9dc93926c147f488d618"
