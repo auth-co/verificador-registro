@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-05T17:58:25.051Z",
+  "updated": "2026-03-05T18:06:00.566Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -218,13 +218,7 @@
       "nombre": "USB 0035",
       "expira": "2026-07-20",
       "tier": "comparador"
-    },
-    {
-      "hash": "328003e192b66698d7e2051889586ca8cc19b7a6bafdde8af057e86291ce176d",
-      "nombre": "daniel64",
-      "expira": "2026-12-31",
-      "tier": "comparador"
     }
   ],
-  "signature": "d909aee15a0e805feb34d9106818b27eb56dace7aee330fad87a9965cd2c2444"
+  "signature": "fa242c3a82740e55b0571d9b1957d91783909851e339f6641d66d501bc48979d"
 }
