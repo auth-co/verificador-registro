@@ -225,5 +225,6 @@
       "expira": "2026-12-31",
       "tier": "extractor"
     }
-  ]
+  ],
+  "signature": "083bb0e8032be5c8497c6aa371fda62e14be1a5275172fef4ab9131107542885"
 }
