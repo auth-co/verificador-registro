@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-06T19:41:10.198Z",
+  "updated": "2026-03-06T19:57:19.512Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -230,13 +230,7 @@
       "nombre": "Mateo Jr",
       "expira": "2026-12-31",
       "tier": "extractor"
-    },
-    {
-      "hash": "e95ceb40ed36d2864981ce6572e596f69629510bd9c36b64a5170a47937d0ab9",
-      "nombre": "USB 0040",
-      "expira": "2026-07-20",
-      "tier": "extractor"
     }
   ],
-  "signature": "39a82750785ec33a419adee0306c3707fbd61c6b560e67c51f2001d625f63aba"
+  "signature": "0255cfecd704887391bdb58f8737482481822a29be79ce144adc555c7602b06f"
 }
