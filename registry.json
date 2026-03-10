@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-09T00:28:49.916Z",
+  "updated": "2026-03-10T23:02:29.123Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -224,12 +224,6 @@
       "nombre": "daniel64",
       "expira": "2026-12-31",
       "tier": "comparador"
-    },
-    {
-      "hash": "41896363d39a911a79aa7ee1fb8c85fdf3f79d8baa093bf3af6a01945f1c9510",
-      "nombre": "Mateo Jr",
-      "expira": "2026-12-31",
-      "tier": "extractor"
     },
     {
       "hash": "44c707141431e3ee21293f8f466aaaaf59b7562f6a37e1821348a315691aea5d",
@@ -550,5 +544,5 @@
       "tier": "comparador"
     }
   ],
-  "signature": "f5996160e296b044319fe0c44cc4516987a69cbcbcd79dfd8a28d10c170ac15c"
+  "signature": "ae83255a2b071c52c01321a37392c9aed092a8b77f32a438814a07220e72dba5"
 }
