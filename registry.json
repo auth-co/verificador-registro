@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-11T14:01:54.406Z",
+  "updated": "2026-03-11T14:02:34.756Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -566,7 +566,13 @@
       "nombre": "Despacho 4",
       "expira": "2026-12-31",
       "tier": "extractor"
+    },
+    {
+      "hash": "f840c55f2986810e412749a43bf606dd3edea5f9f157992605304d562640d4ee",
+      "nombre": "Despacho 5",
+      "expira": "2026-12-31",
+      "tier": "extractor"
     }
   ],
-  "signature": "ea4917c8d76fb9862461194c69c951fb84cd631ea4b0afb3a288e96516b1c35a"
+  "signature": "c95a5e1691c58babc6fc8692e20feb9b6b125939d1ba4c1ea31ed3267a295432"
 }
