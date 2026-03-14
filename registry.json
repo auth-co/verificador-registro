@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-14T02:10:20.339Z",
+  "updated": "2026-03-14T02:26:28.946Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -577,8 +577,8 @@
       "hash": "47be4a193be3983c02398b94252c80ff9ff19f7fd28ab60e52dc8e3951ec69c2",
       "nombre": "Daniel Mat",
       "expira": "2026-12-31",
-      "tier": "extractor"
+      "tier": "comparador"
     }
   ],
-  "signature": "bd239ba33a88b8e0f2681253e0365804ef9931ca94393e742675b4f693174912"
+  "signature": "98df94168ba0ae1e32dda29d03b94bd216b3bad8091be290f5a5b97165381fbd"
 }
