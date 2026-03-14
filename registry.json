@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-14T03:34:36.922Z",
+  "updated": "2026-03-14T03:34:46.597Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -595,8 +595,8 @@
       "hash": "7391e422e66455c37b4d603d8806651766bb90e2588c156668ecc1aa6c5b93f7",
       "nombre": "DanielMat",
       "expira": "2026-12-31",
-      "tier": "extractor"
+      "tier": "comparador"
     }
   ],
-  "signature": "68be4b51f67cda3ca32d5e78e7d8ac24d457fd83943dcd370aa038b69fce5804"
+  "signature": "8948409216e093181b07ab175ed64b888b11cc458156ffc4f08f6226d2934951"
 }
