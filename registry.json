@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-17T19:23:37.837Z",
+  "updated": "2026-03-17T20:28:21.446Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -409,13 +409,13 @@
       "hash": "180140912bb8ef410dccd2b74da6fbd21fb33dc4430bc2232affb3132704514c",
       "nombre": "Despacho1",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "b3a79eb63ffcbf50634ea6c06af3fef78a6717b013de94098cdc3ae37b630646",
       "nombre": "Despacho2",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "80b2f67355c6f70c95fc0864676e97cfc77541dbd581beda9e29ebf4c1c05a2b",
@@ -559,7 +559,7 @@
       "hash": "0af936c726cd0e6b0c229c9b9cccea6f56c14c09730690d7e3d8a32b9fe07b2d",
       "nombre": "Despacho 3",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "96dcf1a3f2c663c8448dda2d6d2125ac6a3e054fe9280797231fbd9acb9b8463",
@@ -580,5 +580,5 @@
       "tier": "comparador"
     }
   ],
-  "signature": "ca7ee83afc84a2f0af2cf4bdb28bab25c781dc3c5983d4e881d3be68ad06a2de"
+  "signature": "1e4addfacaab2c4d61279bd6ff005b1a06c04ba0d26c6ec55fab7c81fdcfc2b8"
 }
