@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-17T22:15:16.885Z",
+  "updated": "2026-03-18T12:09:15.847Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -547,13 +547,13 @@
       "hash": "29c011e3f7b1ba65c0e493b1741b6e47095fbd845234285912ac4d0ec38f1e62",
       "nombre": "Mat Jr",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "1f9c766fcb705c99e6697d0771c15ff8f12a968da512984c44b6f5d78be3c855",
       "nombre": "KINGSTON - USB Test",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "0af936c726cd0e6b0c229c9b9cccea6f56c14c09730690d7e3d8a32b9fe07b2d",
@@ -592,5 +592,5 @@
       "tier": "extractor"
     }
   ],
-  "signature": "77212a1f5f9ef8e38f9e1e9dc7f13a5673f9fe972895d97236b0e97191a0482e"
+  "signature": "7f6758c0518d3c3c205f61b512c8391df63148f08ee165641083cbea9903e694"
 }
