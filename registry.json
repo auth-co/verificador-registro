@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-18T13:56:04.880Z",
+  "updated": "2026-03-18T13:56:14.324Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -592,5 +592,5 @@
       "tier": "extractor"
     }
   ],
-  "signature": "a20cbde4896d7de3f464f790da249e609e16d5da2c985d4391339404b61e5e43"
+  "signature": "f9eb1c26c61c57bb2c0d3452754406cbbf0c179f2c764b53fae3e8da7bc86867"
 }
