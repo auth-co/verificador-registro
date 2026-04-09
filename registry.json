@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-04-08T03:14:56.510Z",
+  "updated": "2026-04-09T20:15:16.062Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -547,7 +547,7 @@
       "hash": "29c011e3f7b1ba65c0e493b1741b6e47095fbd845234285912ac4d0ec38f1e62",
       "nombre": "Mat Jr",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "1f9c766fcb705c99e6697d0771c15ff8f12a968da512984c44b6f5d78be3c855",
@@ -592,5 +592,5 @@
       "tier": "extractor"
     }
   ],
-  "signature": "45b730c385203a83aabbb3ea4fa2f3ec1abe9a5b7fe9bab35f37c24a12c7561e"
+  "signature": "4ef7f7f33bef68c88af0547a8b558e543b98dbbaa1bed14a8b1b70de26e406cf"
 }
